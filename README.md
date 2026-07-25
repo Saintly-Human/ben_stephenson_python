@@ -11,6 +11,7 @@ This repository contains my solutions to exercises and code challenges from the 
 | **01** | Ch. 4 / Ex. 91 | Григорианский календарь в порядковый | [View](./ordinal-date-calculator/) |
 | **02** | Ch. 4 / Ex. 92 | Порядковая дата в григорианский календарь | [View](./date-shift-calculator/) |
 | **03** | Ch. 4 / Ex.100 | Случайный пароль | [View](./secure-password-generator/) |
+| **04** | Ch. 3 / Ex.73 | Код Цезаря | [View](./text-encrypter/) |
 
 ---
 
