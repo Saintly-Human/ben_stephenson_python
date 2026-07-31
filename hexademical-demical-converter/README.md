@@ -39,3 +39,26 @@ cd ben_stephenson_python/hexademical-demical-converter
 ```bash
 python main.py
 ```
+
+## 💡 **Example Output:**
+
+Inputting a decimal number:
+
+```plaintext
+Enter a value (0-15 or 0-F): 14
+DEC -> HEX: 14 = 'E'
+```
+
+Inputting a hexadecimal character:
+
+```plaintext
+Enter a value (0-15 or 0-F): e
+HEX -> DEC: 'E' = 14
+```
+
+Handling out-of-bounds input:
+
+```plaintext
+Enter a value (0-15 or 0-F): 20
+Error: the number 20 is outside the valid range (0–15)!
+```
