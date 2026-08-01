@@ -13,6 +13,7 @@ This repository contains my solutions to exercises and code challenges from the 
 | **03** | Ch. 4 / Ex.100 | Случайный пароль | [View](./secure-password-generator/) |
 | **04** | Ch. 3 / Ex.73 | Код Цезаря | [View](./text-encrypter/) |
 | **05** | Ch. 4 / Ex.104 | Шестнадцатеричные и десятичные числа | [View](./hexademical-demical-converter/) |
+| **06** | Ch. 4 / Ex.109 | Магические даты | [View](./magic-date/) |
 
 ---
 
