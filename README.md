@@ -14,6 +14,8 @@ This repository contains my solutions to exercises and code challenges from the 
 | **04** | Ch. 3 / Ex.73 | Код Цезаря | [View](./text-encrypter/) |
 | **05** | Ch. 4 / Ex.104 | Шестнадцатеричные и десятичные числа | [View](./hexademical-demical-converter/) |
 | **06** | Ch. 4 / Ex.109 | Магические даты | [View](./magic-date/) |
+| **07** | Ch. 5 / Ex.118 | Словесные палиндромы | [View](./word-palindrome/) |
+| **08** | BONUS / EXTRA | Буквенные палиндромы | [View](./letter-palindrome/) |
 
 ---
 

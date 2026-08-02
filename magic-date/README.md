@@ -43,5 +43,5 @@ cd ben_stephenson_python/magic-date
 3. Run the script in your terminal:
 
 ```bash
-python magic_dates.py
+python main.py
 ```
