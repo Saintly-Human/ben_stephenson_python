@@ -31,7 +31,7 @@ A lightweight Python module providing utilities to convert single-character valu
 1. **Clone the repository & navigate to this exercise:**:
 ```bash
 git clone https://github.com/Saintly_Human/ben_stephenson_python.git
-cd ben_stephenson_python/hexademical-demical-converter
+cd ben_stephenson_python/hexadecimal-decimal-converter
 ```
 
 2. Run the application:
