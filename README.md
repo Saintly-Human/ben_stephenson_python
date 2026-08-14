@@ -1,4 +1,4 @@
-# 📚 Exercises & Solutions: The Python Workbook Solutions
+# 📚 Exercises & Solutions: The Python Workbook
 
 This repository contains my solutions to exercises and code challenges from the book **"The Python Workbook"** by Ben Stephenson.
 
@@ -12,7 +12,7 @@ This repository contains my solutions to exercises and code challenges from the 
 | **02** | Ch. 4 / Ex. 91 | Григорианский календарь в порядковый | [View](./ordinal-date-calculator/) |
 | **03** | Ch. 4 / Ex. 92 | Порядковая дата в григорианский календарь | [View](./date-shift-calculator/) |
 | **04** | Ch. 4 / Ex.100 | Случайный пароль | [View](./secure-password-generator/) |
-| **05** | Ch. 4 / Ex.104 | Шестнадцатеричные и десятичные числа | [View](./hexademical-demical-converter/) |
+| **05** | Ch. 4 / Ex.104 | Шестнадцатеричные и десятичные числа | [View](./hexadecimal-decimal-converter/) |
 | **06** | Ch. 4 / Ex.109 | Магические даты | [View](./magic-date/) |
 | **07** | Ch. 5 / Ex.118 | Словесные палиндромы | [View](./word-palindrome/) |
 | **08** | BONUS / EXTRA | Буквенные палиндромы | [View](./letter-palindrome/) |
@@ -39,3 +39,7 @@ Each task folder follows a standardized setup:
 ## ⚠️ Notice
 
 * Since I used the Russian version of the book, the task names are written in Russian to avoid confusion; however, in keeping with tradition, the README for each task is entirely in English. Thank you for understanding!
+
+> 💡 **A Quick Note on Task Selection**
+>
+> I only upload solutions that were particularly challenging, insightful, or forced me out of my comfort zone. Simple or repetitive exercises are omitted to keep this repository focused on high-value problems. As a result, the exercise numbering contains gaps, but the total number of solved tasks is significantly higher.
