@@ -1,39 +1,55 @@
 import random
 
-def create_deck():
+def create_deck ():
     ranks = (2, 3, 4, 5, 6, 7, 8, 9, 10, 'J', 'Q', 'K', 'A')
     suits = ('s', 'h', 'd', 'c')
-    deck = []
+    return [f"{r}{s}" for r in ranks for s in suits]
 
-    for r in ranks:
-        for s in suits:
-            deck.append(f"{r}{s}")
-
-    return deck
-
-def shuffle(items):
+def shuffle (items):
     deck = list(items)
-
     for i in range(len(deck) - 1, 0, -1):
         j = random.randint(0, i)
         deck[i], deck[j] = deck[j], deck[i]
-
     return deck
 
-def main():
-    print("Card decks are being generated!!!")
-    not_shf = create_deck()
-    shf = shuffle(not_shf)
+def deal (decks, folks=4, cards=5):
+    hands = [[] for _ in range(folks)]
+    for _ in range(cards):
+        for hand in hands:
+            if decks:
+                hand.append(decks.pop(0))
+    return hands
 
-    print(f"Deck size: {len(not_shf)} cards")
+def main ():
+    try:
+        folks = int(input("How many folks are playing? (integer ONLY): "))
+        cards = int(input("How many cards for each person? (integer ONLY): "))
+        if folks <= 0 or cards <= 0:
+            raise ValueError
+    except ValueError:
+        print('YOU DID SOMETHING WRONG !!! Please enter positive integers.')
+        return
 
-    print("\n" + "=" * 50)
-    print("ORIGINAL DECK:")
-    print(not_shf)
+    decks = create_deck()
+    shuffled_decks = shuffle(decks)
 
-    print("\n" + "=" * 50)
-    print("Hand-shuffled deck:")
-    print(shf)
+    if folks * cards > len(shuffled_decks):
+        print(
+            f'Not enough cards! Need {folks * cards}, but deck has'
+            f' {len(shuffled_decks)}.'
+        )
+        return
+
+    hands = deal (shuffled_decks, folks, cards)
+
+    print('THE GAME IS STARTING !!!')
+    print(f'{folks} players with {cards} cards per person')
+
+    for i, hand in enumerate(hands, 1):
+        print(f'{i} player has these cards:')
+        print(f"{', '.join(hand)}\n")
+
+    print(f"{len(shuffled_decks)} left in deck: {', '.join(shuffled_decks)}")
 
 if __name__ == "__main__":
     main()

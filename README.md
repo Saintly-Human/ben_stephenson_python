@@ -16,7 +16,7 @@ This repository contains my solutions to exercises and code challenges from the 
 | **06** | Ch. 4 / Ex.109 | Магические даты | [View](./magic-date/) |
 | **07** | Ch. 5 / Ex.118 | Словесные палиндромы | [View](./word-palindrome/) |
 | **08** | BONUS / EXTRA | Буквенные палиндромы | [View](./letter-palindrome/) |
-| **09** | Ch. 5 / Ex.125 | Тасуем колоду карт | [View](./deck-cards/) |
+| **09** | Ch. 5 / Ex.126 | Раздача карманных карт | [View](./deck-cards/) |
 
 ---
 
