@@ -30,10 +30,19 @@ This repository contains my solutions to exercises and code challenges from the 
 
 ## 📂 Repository Structure
 
+```text
+.
+├── .gitignore               # Global rules for Python caches, virtual environments, etc.
+├── README.md                # Root overview of all exercises and topic index
+└── <exercise_folder>/       # Task directory (e.g., recursive_subsets, pocket_cards)
+    ├── README.md            # Problem statement, complexity analysis, and solution logic
+    └── <solution_file>.py   # Clean, documented implementation (main.py, solution.py, etc.)
+```
+
 Each task folder follows a standardized setup:
 
-1. `README.md` — Problem description, algorithm explanation.
-2. `*.py` — Clean, well-documented source code files.
+1. `README.md` — Problem description, complexity analysis, and algorithm details.
+2. `<solution_file>.py` — Clean, well-documented source code implementation.
 
 ---
 
