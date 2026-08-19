@@ -18,6 +18,7 @@ This repository contains my solutions to exercises and code challenges from the 
 | **08** | BONUS / EXTRA | Буквенные палиндромы | [View](./letter-palindrome/) |
 | **09** | Ch. 5 / Ex.126 | Раздача карманных карт | [View](./deck-cards/) |
 | **10** | Ch. 5 / Ex.134 | Всевозможные комбинации | [View](./recursive-subset-generator/) |
+| **11** | Ch. 5 / Ex.135 | Решето Эратосфена | [View](./sieve-of-eratosthenes/) |
 
 ---
 
