@@ -41,10 +41,10 @@ This version applies mathematical optimizations and efficient Python constructs:
 
 1. Clone the repository & navigate to this exercise::
 
-```bash
-git clone https://github.com/Saintly_Human/ben_stephenson_python.git
-cd ben_stephenson_python/sieve-of-eratosthenes
-```
+   ```bash
+   git clone https://github.com/Saintly_Human/ben_stephenson_python.git
+   cd ben_stephenson_python/sieve-of-eratosthenes
+   ```
 
 2. **Run the Step-by-Step version:**
 
