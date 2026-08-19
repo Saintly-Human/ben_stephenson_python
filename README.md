@@ -20,6 +20,7 @@ This repository contains my solutions to exercises and code challenges from the 
 | **10** | Ch. 5 / Ex.134 | Всевозможные комбинации | [View](./recursive-subset-generator/) |
 | **11** | Ch. 5 / Ex.135 | Решето Эратосфена | [View](./sieve-of-eratosthenes/) |
 | **12** | Ch. 6 / Ex.138 | Текстовые сообщения | [View](./cell-phone-keypad/) |
+| **13** | Ch. 6 / Ex.139 | Азбука Морзе | [View](./text-to-morse/) |
 
 ---
 
