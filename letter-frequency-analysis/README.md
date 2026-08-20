@@ -40,7 +40,7 @@ Execution:
 Output:
     ```plaintext
     Total letters found: 10
-
+    
     Letter  Count       Percentage
     ------------------------------
     l       3           30.00%
