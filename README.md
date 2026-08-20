@@ -22,6 +22,7 @@ This repository contains my solutions to exercises and code challenges from the 
 | **12** | Ch. 6 / Ex.138 | Текстовые сообщения | [View](./cell-phone-keypad/) |
 | **13** | Ch. 6 / Ex.139 | Азбука Морзе | [View](./text-to-morse/) |
 | **14** | Ch. 7 / Ex.152 | Нумеруем строки в файле | [View](./add-line-numbers-to-file/) |
+| **15** | Ch. 7 / Ex.154 | Частота букв в файле | [View](./letter-frequency-analysis/) |
 
 ---
 
