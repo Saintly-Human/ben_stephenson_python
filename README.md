@@ -21,6 +21,7 @@ This repository contains my solutions to exercises and code challenges from the 
 | **11** | Ch. 5 / Ex.135 | Решето Эратосфена | [View](./sieve-of-eratosthenes/) |
 | **12** | Ch. 6 / Ex.138 | Текстовые сообщения | [View](./cell-phone-keypad/) |
 | **13** | Ch. 6 / Ex.139 | Азбука Морзе | [View](./text-to-morse/) |
+| **14** | Ch. 7 / Ex.152 | Нумериум строки в файле | [View](./add-line-numbers-to-file/) |
 
 ---
 
