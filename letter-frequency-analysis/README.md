@@ -21,33 +21,37 @@ This project is a solution to Exercise 156 from *The Python Workbook* by Ben Ste
 ## Usage
 
 Run the script from your terminal by providing the path to the text file as a command-line argument:
-    ```bash
-    python main.py <path_to_file>
-    ```
+
+```bash
+python main.py <path_to_file>
+```
 
 ## Example
 
 Given a text file sample.txt containing:
-    ```plaintext
-    Hello, World! 123
-    ```
+
+```plaintext
+Hello, World! 123
+```
 
 Execution:
-    ```bash
-    python main.py sample.txt
-    ```
+
+```bash
+python main.py sample.txt
+```
 
 Output:
-    ```plaintext
-    Total letters found: 10
-    
-    Letter  Count       Percentage
-    ------------------------------
-    l       3           30.00%
-    o       2           20.00%
-    h       1           10.00%
-    e       1           10.00%
-    w       1           10.00%
-    r       1           10.00%
-    d       1           10.00%
-    ```
+
+```plaintext
+Total letters found: 10
+
+Letter  Count       Percentage
+------------------------------
+l       3           30.00%
+o       2           20.00%
+h       1           10.00%
+e       1           10.00%
+w       1           10.00%
+r       1           10.00%
+d       1           10.00%
+```
