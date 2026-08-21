@@ -23,6 +23,7 @@ This repository contains my solutions to exercises and code challenges from the 
 | **13** | Ch. 6 / Ex.139 | Азбука Морзе | [View](./text-to-morse/) |
 | **14** | Ch. 7 / Ex.152 | Нумеруем строки в файле | [View](./add-line-numbers-to-file/) |
 | **15** | Ch. 7 / Ex.154 | Частота букв в файле | [View](./letter-frequency-analysis/) |
+| **16** | Ch. 7 / Ex.159 | Случайный пароль из двух слов | [View](./generate-random-password/) |
 
 ---
 
