@@ -23,7 +23,7 @@ def analyze_letter_frequency(file_path: str) -> None:
 def main() -> None:
     if len(sys.argv) != 2:
         print("Error: Invalid number of arguments.")
-        print("Usage: python frequency_analysis.py <file_name>")
+        print("Usage: python main.py <file_name>")
         return
     analyze_letter_frequency(sys.argv[1])
 if __name__ == "__main__":
