@@ -24,6 +24,7 @@ This repository contains my solutions to exercises and code challenges from the 
 | **14** | Ch. 7 / Ex.152 | Нумеруем строки в файле | [View](./add-line-numbers-to-file/) |
 | **15** | Ch. 7 / Ex.154 | Частота букв в файле | [View](./letter-frequency-analysis/) |
 | **16** | Ch. 7 / Ex.159 | Случайный пароль из двух слов | [View](./generate-random-password/) |
+| **17** | Ch. 7 / Ex.171 | Строки фиксированной длины | [View](./paragraph-text-formatter/) |
 
 ---
 
