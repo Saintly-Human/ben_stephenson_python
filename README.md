@@ -25,6 +25,7 @@ This repository contains my solutions to exercises and code challenges from the 
 | **15** | Ch. 7 / Ex.154 | Частота букв в файле | [View](./letter-frequency-analysis/) |
 | **16** | Ch. 7 / Ex.159 | Случайный пароль из двух слов | [View](./generate-random-password/) |
 | **17** | Ch. 7 / Ex.171 | Строки фиксированной длины | [View](./paragraph-text-formatter/) |
+| **18** | Ch. 8 / Ex.175 | Рекурсивный перевод числа из десятичного | [View](./recursive-base-converter/) |
 
 ---
 
