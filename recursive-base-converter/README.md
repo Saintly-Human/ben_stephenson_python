@@ -25,11 +25,11 @@ The conversion uses positional notation base arithmetic. The program continuousl
 1. **Clone the repository:**
 
 ```bash
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-cd your-repo-name
+git clone https://github.com/Saintly_Human/ben_stephenson_python.git
+cd ben_stephenson_python/recursive-base-converter
 ```
 
-1. **Run the script:**
+2. **Run the script:**
 
 ```bash
 python main.py
