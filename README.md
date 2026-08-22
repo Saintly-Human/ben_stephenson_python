@@ -26,6 +26,7 @@ This repository contains my solutions to exercises and code challenges from the 
 | **16** | Ch. 7 / Ex.159 | Случайный пароль из двух слов | [View](./generate-random-password/) |
 | **17** | Ch. 7 / Ex.171 | Строки фиксированной длины | [View](./paragraph-text-formatter/) |
 | **18** | Ch. 8 / Ex.175 | Рекурсивный перевод числа из десятичного | [View](./recursive-base-converter/) |
+| **19** | Ch. 8 / Ex.176 | Фонетический алфавит НАТО | [View](./nato-phonetic-alphabet-converter/) |
 
 ---
 
