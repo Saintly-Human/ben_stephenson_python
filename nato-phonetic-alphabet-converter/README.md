@@ -1,4 +1,4 @@
-# 💲 NATO Phonetic Alphabet Converter
+# 💶 NATO Phonetic Alphabet Converter
 
 A Python script that converts an input word or text into its corresponding **NATO Phonetic Alphabet** representation using a **recursive approach** (without iterative loops).
 
