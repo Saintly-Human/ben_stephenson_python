@@ -1,6 +1,6 @@
 # 📚 Exercises & Solutions: The Python Workbook
 
-This repository contains my solutions to exercises and code challenges from the book **"The Python Workbook"** by Ben Stephenson.
+This repository contains my solutions to exercises and code challenges from the book **"The Python Workbook"** by Ben Stephenson. The book has 8 chapters and 186 tasks in total.
 
 ---
 
