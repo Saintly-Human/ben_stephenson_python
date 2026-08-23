@@ -4,7 +4,7 @@ A Python program that determines whether words (specifically, names of chemical 
 
 ---
 
-## Task Description
+## 📜 Task Description
 
 Write a recursive function that checks whether a given word can be constructed exclusively using a list of available chemical element symbols.
 
@@ -17,7 +17,7 @@ Write a recursive function that checks whether a given word can be constructed e
 
 ---
 
-## How It Works
+## 🚀 How It Works
 
 The function uses **backtracking via recursion**:
 
@@ -27,7 +27,7 @@ The function uses **backtracking via recursion**:
 
 ---
 
-## Usage
+## ⚙️ Usage
 
 1. Place `elements.txt` in the same directory as `main.py`.
 2. Run the script:
