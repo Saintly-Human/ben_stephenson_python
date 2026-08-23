@@ -36,6 +36,8 @@ The program uses **exhaustive recursive backtracking** to explore all valid cont
 python main.py
 ```
 
+---
+
 ## 💡 Example Usage
 
 ```plaintext
