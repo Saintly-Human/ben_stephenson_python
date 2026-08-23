@@ -27,6 +27,7 @@ This repository contains my solutions to exercises and code challenges from the 
 | **17** | Ch. 7 / Ex.171 | Строки фиксированной длины | [View](./paragraph-text-formatter/) |
 | **18** | Ch. 8 / Ex.175 | Рекурсивный перевод числа из десятичного | [View](./recursive-base-converter/) |
 | **19** | Ch. 8 / Ex.176 | Фонетический алфавит НАТО | [View](./nato-phonetic-alphabet-converter/) |
+| **20** | Ch. 8 / Ex.181 | Возможный размен | [View](./recursive-coin-change-combination-checker/) |
 
 ---
 
