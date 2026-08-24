@@ -1,6 +1,7 @@
-# Cell Phone Keypad: Simulates old-style mobile phone multi-tap text entry by mapping input strings to keypress sequences.
+# Cell Phone Keypad: Simulates old-style mobile phone multi-tap text entry by mapping input strings to keypress sequences
 
 ## Description
+
 This program converts a text message entered by the user into the sequence of key presses required to type it on an old-style mobile phone keypad (T9 / Multi-tap input).
 
 ---
@@ -27,11 +28,13 @@ The program automatically converts input characters to uppercase and ignores any
 ## Example Usage
 
 ### Input:
+
 ```text
 Hello, World!
 ```
 
 ### Output:
+
 ```text
 4433555555666110966677755531111
 ```
