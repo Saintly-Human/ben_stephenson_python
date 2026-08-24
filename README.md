@@ -31,6 +31,7 @@ This repository contains my solutions to exercises and code challenges from the 
 | **21** | Ch. 8 / Ex.182 | Слова через химические элементы | [View](./chemical-element-name-speller/) |
 | **22** | Ch. 8 / Ex.183 | Последовательность химических элементов | [View](./chemical-element-chain-game/) |
 | **23** | Ch. 8 / Ex.184 | Выравниваем список | [View](./nested-list-flattener/) |
+| **24** | Ch. 8 / Ex.186 | Кодирование и Декодирование на основе длин серий | [View](./run-length-encoding/) |
 
 ---
 
